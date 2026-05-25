@@ -2,6 +2,10 @@
 
 By publications:
 
+
+2026. Chi et al. Assessing the metabolomics “dark matter” by a detectable khipu model. Metabolomics 22, 79 (2026). https://doi.org/10.1007/s11306-026-02456-y
+- A synthetic feature table generated using a biological dataset and a compound library, for evaluaiton of pre-annotation. At [publisher's](https://static-content.springer.com/esm/art%3A10.1007%2Fs11306-026-02456-y/MediaObjects/11306_2026_2456_MOESM2_ESM.xlsx) and here data/11306_2026_2456_MOESM2_ESM.xlsx.
+
 ---
 2025. Chi et al., Constructing a consensus serum metabolome. bioRxiv https://doi.org/10.1101/2025.05.07.652782
 - R1 release https://github.com/shuzhao-li-lab/consensus_serum_metabolome
