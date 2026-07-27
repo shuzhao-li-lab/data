@@ -39,6 +39,5 @@ Potentially redundant isomers are colored. Since the goal here is not metabolite
 
 ## By events or applications
 
-- Frequently used test dataset for Asari processing: MT02 here under `data/`.
-
+- Frequently used test datasets for Asari: `MT02Dataset.zip` and `Anno_data_202707.zip` are here under `data/`.
 
